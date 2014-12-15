@@ -1,0 +1,4 @@
+WorkerWager
+===========
+
+WorkWager for XCR
